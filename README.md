@@ -3,7 +3,7 @@
 
 This project is designed to demonstrate expert-level Apache Airflow usage beyond simple scheduling. It focuses on dynamic DAGs, cross-pipeline dependencies, sensors, failure isolation, and operational scalability.
 
-Where Project 1 proves end-to-end data platform design, Project 2 proves orchestration mastery.
+Where Project 1 proves end-to-end data platform design, Project 2 proves orchestration mastery .
 
 ## Business Problem
 
